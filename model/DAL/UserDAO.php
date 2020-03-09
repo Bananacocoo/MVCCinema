@@ -14,7 +14,7 @@
 class UserDAO extends Dao
 {
 
-    
+
     //Ajouter une inscription
     public function add($data)
     {
